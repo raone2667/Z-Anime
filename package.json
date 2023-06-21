@@ -1,0 +1,32 @@
+{
+  "name": "zanime",
+  "version": "1.0.0",
+  "description": "A full featured scraper of sanji.to",
+  "main": "tester.js",
+  "directories": {
+    "Src": "Src",
+    "Components": "Components",
+    "Core": "Core"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/FantoX001/Z-Anime.git"
+  },
+  "homepage": "https://github.com/FantoX001/Z-Anime#readme",
+  "keywords": [
+    "zanime",
+    "z-anime",
+    "animw-api",
+    "anime",
+    "anime-scraper"
+  ],
+  "author": "FantoX001",
+  "license": "ECL-2.0",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "cheerio": "^1.0.0-rc.12"
+  }
+}
