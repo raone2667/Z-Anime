@@ -2,11 +2,15 @@ const axios = require("axios");
 const cheerio = require("cheerio");
 const stealthHeaderV2 = require("../Core/stealthHeaderV2");
 
-async function getGenere(genere) {
+async function getGenere(genere, page) {
   if (!genere || genere == "") {
     return console.log("Please enter a genere name ! Ex: getGenere('action')");
   }
-  const refererUrl = "https://sanji.to/genre/" + genere;
+
+  if (!page || page == "") {
+    page = 1;
+  }
+  const refererUrl = "https://sanji.to/genre/" + genere + "?page=" + page;
   const headers = await stealthHeaderV2(refererUrl);
   const data = await axios.get(refererUrl, {
     headers: headers,

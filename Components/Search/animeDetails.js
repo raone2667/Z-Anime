@@ -18,7 +18,7 @@ async function animeDetails(name) {
   let $ = cheerio.load(data.data);
   const ddr = $(".flw-item");
   const firstUrl = ddr.find("a").attr("href");
-  const refererUrl = "https://sanji.to/" + firstUrl;
+  const refererUrl = "https://sanji.to" + firstUrl;
   const headers2 = await stealthHeaderV2(refererUrl);
 
   const req2 = await axios.get(refererUrl, {
@@ -94,6 +94,7 @@ async function animeDetails(name) {
     aired: Aired,
     synonyms: Synonyms,
     jname: janame,
+    url: refererUrl,
     Description: formattedDescription,
     seasons: seasons.length,
     seasonslist: seasons,

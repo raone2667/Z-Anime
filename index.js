@@ -19,5 +19,5 @@ module.exports = {
   dubbed: require("./Components/Depth/dubbed.js"),
   subbed: require("./Components/Depth/subbed.js"),
   search: require("./Components/Search/search.js"),
-  searchAnime: require("./Components/Search/animeDetails.js"),
+  details: require("./Components/Search/animeDetails.js"),
 };
