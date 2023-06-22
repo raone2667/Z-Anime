@@ -39,6 +39,8 @@ Sometimes while creating and **anime information** website or **anime news websi
 - [x] Let me know if you found anything else.
 
 
+<a name="table-of-contents"></a>
+
 ## Table of Contents
 <ol>
   <li>Getting started</li>
