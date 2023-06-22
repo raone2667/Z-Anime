@@ -42,32 +42,39 @@ Sometimes while creating and **anime information** website or **anime news websi
 <a name="table-of-contents"></a>
 
 ## Table of Contents
+
 <ol>
   <li>Getting started</li>
   <ul>
-    <li><a href="#installation">Installation</a></li>
+    <li><a href="#installation">Installation</a></li> <br />
   </ul>
   <li>Usage</li>
   <ul>
-  <li><a href="#get-trending-anime-list">Get Trending Animes List</a></li>
-  <li><a href="#get-spotlight-animes-list">Get Spotlight Animes List</a></li>
-  <li><a href="#get-recently-updated-animes-list">Get Recently Updated Animes List</a></li>
-  <li><a href="#get-recently-added-animes-list">Get Recently Added Animes List</a></li>
-  <li><a href="#get-currently-airing-animes-list">Get Currently Airing Animes List</a></li>
-  <li><a href="#get-most-popular-animes-list">Get Most Popular Animes List</a></li>
-  <li><a href="#get-most-favourite-animes-list">Get Most Favourite Animes List</a></li>
-  <li><a href="#get-completed-animes-list">Get Completed Animes List</a></li>
-  <li><a href="#search-an-anime-genere">Search an Anime Genere</a></li>
-  <li><a href="#search-an-anime">Search and Anime</a></li>
-  <li><a href="#get-full-details-of-any-anime">Get Full Details of any Anime</a></li>
-  <li><a href="#get-anime-movies-list">Get Anime Movies List</a></li>
-  <li><a href="#get-ona-animes-list">Get ONA Animes List</a></li>
-  <li><a href="#get-ova-animes-list">Get OVA Animes List</a></li>
-  <li><a href="#get-tv-animes-list">Get TV Animes List</a></li>
-  <li><a href="#get-specials-animes-list">Get Specials Animes List</a></li>
-  <li><a href="#get-dubbed-animes-list">Get Dubbed Animes List</a></li>
-  <li><a href="#get-subbed-animes-list">Get Subbed Animes List</a></li>
+    <li><a href="#get-trending-anime-list">Get Trending Animes List</a></li>
+    <li><a href="#get-spotlight-animes-list">Get Spotlight Animes List</a></li>
+    <li><a href="#get-recently-updated-animes-list">Get Recently Updated Animes List</a></li>
+    <li><a href="#get-recently-added-animes-list">Get Recently Added Animes List</a></li>
+    <li><a href="#get-currently-airing-animes-list">Get Currently Airing Animes List</a></li>
+    <li><a href="#get-most-popular-animes-list">Get Most Popular Animes List</a></li>
+    <li><a href="#get-most-favourite-animes-list">Get Most Favourite Animes List</a></li>
+    <li><a href="#get-completed-animes-list">Get Completed Animes List</a></li>
+    <li><a href="#search-an-anime-genere">Search an Anime Genre</a></li>
+    <li><a href="#search-an-anime">Search an Anime</a></li>
+    <li><a href="#get-full-details-of-any-anime">Get Full Details of any Anime</a></li>
+    <li><a href="#get-anime-movies-list">Get Anime Movies List</a></li>
+    <li><a href="#get-ona-animes-list">Get ONA Animes List</a></li>
+    <li><a href="#get-ova-animes-list">Get OVA Animes List</a></li>
+    <li><a href="#get-tv-animes-list">Get TV Animes List</a></li>
+    <li><a href="#get-specials-animes-list">Get Specials Animes List</a></li>
+    <li><a href="#get-dubbed-animes-list">Get Dubbed Animes List</a></li>
+    <li><a href="#get-subbed-animes-list">Get Subbed Animes List</a></li> <br />
 </ul>
+  <li>Types of Outputs</li>
+  <ul>
+    <li><a href="#search-output">Search Output</a></li>
+    <li><a href="#anime-details">Anime Details</a></li>
+    <li><a href="#anime-pages-output">Anime Pages Output</a></li> <br />
+  </ul>
 </ol>
 
 
