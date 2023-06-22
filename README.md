@@ -19,7 +19,7 @@
   </p>
 </div>
 
-## About Z-Fetcher
+## About Z-Anime
 
 Sometimes while creating and **anime information** website or **anime news website**, we require some data so this NPM pacakge will help you fetch data from <a href="sanji.to">zoro.to </a> and return as a **JSON** with the power of web scraping.
 
@@ -79,13 +79,13 @@ This is how you can setup Z-Anime.
 Using NPM:
 
 ```sh
-npm install znime
+npm install z-anime
 ```
 
 Using YARN:
 
 ```sh
-yarn add zanime
+yarn add z-anime
 ```
 
 
