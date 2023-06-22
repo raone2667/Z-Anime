@@ -8,10 +8,10 @@
   <p align="center">
     <h3>An unoffitial <a href="sanji.to">zoro.to </a>fetcher NPM package </h3>
     <br />
-    <a href="https://github.com/FantoX001/Z-Anime"><strong>Explore the docs »</strong></a>
+    <a href="#table-of-contents"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Code Example</a>
+    <a href="#get-trending-anime-list">View Code Example</a>
     ·
     <a href="https://github.com/FantoX001/Z-Anime/issues">Report a Bug</a>
     ·
