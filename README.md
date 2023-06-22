@@ -19,37 +19,6 @@
   </p>
 </div>
 
-
-
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
-  </ol>
-</details>
-
-
-
-<!-- ABOUT THE PROJECT -->
 ## About Z-Fetcher
 
 Sometimes while creating and **anime information** website or **anime news website**, we require some data so this NPM pacakge will help you fetch data from <a href="sanji.to">zoro.to </a> and return as a **JSON** with the power of web scraping.
@@ -74,35 +43,30 @@ Sometimes while creating and **anime information** website or **anime news websi
 <ol>
   <li>Getting started</li>
   <ul>
-    <li><a href="#getting-trending-anime-list">Installation</a></li>
+    <li><a href="#installation">Installation</a></li>
   </ul>
   <li>Usage</li>
   <ul>
-  <li><a href="#getting-trending-anime-list">Get Trending Animes List</a></li>
-  <li><a href="#usage">Get Spotlight Animes List</a></li>
-  <li><a href="#usage">Get Recently Updated Animes List</a></li>
-  <li><a href="#usage">Get Recently Added Animes List</a></li>
-  <li><a href="#usage">Get Currently Airing Animes List</a></li>
-  <li><a href="#usage">Get Most Popular Animes List</a></li>
-  <li><a href="#usage">Get Most Favourite Animes List</a></li>
-  <li><a href="#usage">Get Completed Animes List</a></li>
-  <li><a href="#usage">Search an Anime Genere</a></li>
-  <li><a href="#usage">Search and Anime</a></li>
-  <li><a href="#usage">Get Full Details of any Anime</a></li>
-  <li><a href="#usage">Get Anime Movies List</a></li>
-  <li><a href="#usage">Get ONA Animes List</a></li>
-  <li><a href="#usage">Get OVA Animes List</a></li>
-  <li><a href="#usage">Get TV Animes List</a></li>
-  <li><a href="#usage">Get Specials Animes List</a></li>
-  <li><a href="#usage">Get Dubbed Animes List</a></li>
-  <li><a href="#usage">Get Subbed Animes List</a></li>
+  <li><a href="#get-trending-anime-list">Get Trending Animes List</a></li>
+  <li><a href="#get-spotlight-animes-list">Get Spotlight Animes List</a></li>
+  <li><a href="#get-recently-updated-animes-list">Get Recently Updated Animes List</a></li>
+  <li><a href="#get-recently-added-animes-list">Get Recently Added Animes List</a></li>
+  <li><a href="#get-currently-airing-animes-list">Get Currently Airing Animes List</a></li>
+  <li><a href="#get-most-popular-animes-list">Get Most Popular Animes List</a></li>
+  <li><a href="#get-most-favourite-animes-list">Get Most Favourite Animes List</a></li>
+  <li><a href="#get-completed-animes-list">Get Completed Animes List</a></li>
+  <li><a href="#search-an-anime-genere">Search an Anime Genere</a></li>
+  <li><a href="#search-an-anime">Search and Anime</a></li>
+  <li><a href="#get-full-details-of-any-anime">Get Full Details of any Anime</a></li>
+  <li><a href="#get-anime-movies-list">Get Anime Movies List</a></li>
+  <li><a href="#get-ona-animes-list">Get ONA Animes List</a></li>
+  <li><a href="#get-ova-animes-list">Get OVA Animes List</a></li>
+  <li><a href="#get-tv-animes-list">Get TV Animes List</a></li>
+  <li><a href="#get-specials-animes-list">Get Specials Animes List</a></li>
+  <li><a href="#get-dubbed-animes-list">Get Dubbed Animes List</a></li>
+  <li><a href="#get-subbed-animes-list">Get Subbed Animes List</a></li>
 </ul>
 </ol>
-
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 <!-- GETTING STARTED -->
@@ -124,20 +88,10 @@ Using YARN:
 yarn add zanime
 ```
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
-<!-- USAGE EXAMPLES -->
 ## Usage
 
-<!-- Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p> -->
-
-### Getting Trending anime list:
+### Get Trending anime list:
 
 * Use `trending()` function to get top 10 trending anime list of Zoro.to.
 
