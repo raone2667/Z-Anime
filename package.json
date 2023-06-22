@@ -1,12 +1,10 @@
 {
-  "name": "zanime",
+  "name": "z-anime",
   "version": "1.0.0",
   "description": "A full featured scraper of sanji.to with all functionalities.",
-  "main": "tester.js",
+  "main": "index.js",
   "directories": {
-    "Src": "Src",
     "Components": "Components",
-    "Core": "Core"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
