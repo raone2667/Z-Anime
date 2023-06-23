@@ -41,7 +41,7 @@ Sometimes while creating and **anime information** website or **anime news websi
 
 <a name="table-of-contents"></a>
 
-## Table of Contents
+# Table of Contents
 
 <ol>
   <li>Getting started</li>
@@ -69,11 +69,13 @@ Sometimes while creating and **anime information** website or **anime news websi
     <li><a href="#get-dubbed-animes-list">Get Dubbed Animes List</a></li>
     <li><a href="#get-subbed-animes-list">Get Subbed Animes List</a></li> <br />
 </ul>
+  <li><a href="#making-of-z-anime)">Making of Z-Anime</a></li> <br />
+  <li><a href="#contributions)">Contributions</a></li> <br />
 </ol>
 
 
 <!-- GETTING STARTED -->
-## Getting Started
+# Getting Started
 
 This is how you can setup Z-Anime.
 
@@ -1604,4 +1606,21 @@ const anime = require("z-anime");
 
 <br />
 <p align="right">( <a href="#table-of-contents">Go to Table of Contents ⇧</a> )</p>
+<br />
+
+# Making of Z-Anime
+
+## How?
+* Using [Axios](https://github.com/axios/axios) and [Cheerio](https://github.com/cheeriojs/cheerio)
+* **Axios -** A promise based HTTP client for the browser and node.js
+* **Cheerio -** A fast, flexible, and elegant library for parsing and manipulating HTML and XML.
+
+## Why?
+* IDK, scraping is fun to me and also legal upto a limited extend as long as you don't misuse it.
+<br />
+
+# Contributions
+* Made by [FantoX](https://github.com/FantoX001)
+* I don't have any other contributors in this project yet. Feel free to contribute.
+
 <br />
