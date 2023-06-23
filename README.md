@@ -825,6 +825,10 @@ const anime = require("z-anime");
 })();
 ```
 
+<br />
+<p align="right">( <a href="#table-of-contents">Go to Table of Contents ⇧</a> )</p>
+<br />
+
 ### Get Top Airing anime list:
 
 * Use `airing()` or `ongoing()` or `topAiring()` function to get Top Airing  anime list of page 1 of Zoro.to.
