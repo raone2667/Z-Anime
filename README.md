@@ -184,7 +184,7 @@ const anime = require("z-anime");
 <br />
   
 </details>
-<p align="right">(<a href="#table-of-contents">Go to Table of Contents</a>)</p>
+<p align="right">( <a href="#table-of-contents">Go to Table of Contents ⇧</a> )</p>
 
 <br />
 
@@ -362,6 +362,7 @@ const anime = require("z-anime");
   <br />
   
 </details>
+<p align="right">( <a href="#table-of-contents">Go to Table of Contents ⇧</a> )</p>
 
 <br />
 
@@ -799,6 +800,7 @@ const anime = require("z-anime");
   <br />
   
 </details>
+<p align="right">( <a href="#table-of-contents">Go to Table of Contents ⇧</a> )</p>
 
 <br />
 
@@ -840,6 +842,10 @@ const anime = require("z-anime");
 })();
 ```
 
+<br />
+<p align="right">( <a href="#table-of-contents">Go to Table of Contents ⇧</a> )</p>
+<br />
+
 ### Get Most Popular anime list:
 
 * Use `popular()` function to get Most Popular anime list of page 1 of Zoro.to.
@@ -858,6 +864,10 @@ const anime = require("z-anime");
   console.log(data2);
 })();
 ```
+
+<br />
+<p align="right">( <a href="#table-of-contents">Go to Table of Contents ⇧</a> )</p>
+<br />
 
 ### Get Most Favourite anime list:
 
@@ -878,6 +888,10 @@ const anime = require("z-anime");
 })();
 ```
 
+<br />
+<p align="right">( <a href="#table-of-contents">Go to Table of Contents ⇧</a> )</p>
+<br />
+
 ### Get Completed anime list:
 
 * Use `completed()` function to get Completed anime list of page 1 of Zoro.to.
@@ -896,6 +910,10 @@ const anime = require("z-anime");
   console.log(data2);
 })();
 ```
+
+<br />
+<p align="right">( <a href="#table-of-contents">Go to Table of Contents ⇧</a> )</p>
+<br />
 
 ### Search any Genere:
 
@@ -1262,357 +1280,12 @@ const anime = require("z-anime");
     totalepisodes: 'Not declared'
   }
 ]
-
-[Done] exited with code=0 in 4.15 seconds
-
-[Running] node "c:\Users\shubh\OneDrive\Desktop\animeAPI\snippets\search_genere.js"
-[
-  {
-    title: 'One Punch Man 2nd Season Commemorative Special',
-    jname: 'One Punch Man 2nd Season Commemorative Special',
-    image: 'https://img.zorores.com/_r/300x400/100/d2/98/d2980949001f919dced6f4912004890e/d2980949001f919dced6f4912004890e.jpg',
-    url: 'https://sanji.to/one-punch-man-2nd-season-commemorative-special-4768',
-    age: '18+',
-    sub: '1',
-    dub: 'No dubbing yet',
-    totalepisodes: 'Not declared'
-  },
-  {
-    title: 'Majestic Prince Episode 25 – Wings to the Future',
-    jname: 'Ginga Kikoutai Majestic Prince: Mirai e no Tsubasa',
-    image: 'https://img.zorores.com/_r/300x400/100/b0/1e/b01ebfd842da354271873dd65a42dab4/b01ebfd842da354271873dd65a42dab4.jpg',
-    url: 'https://sanji.to/majestic-prince-episode-25-wings-to-the-future-6062',
-    age: 'All',
-    sub: '1',
-    dub: '1',
-    totalepisodes: 'Not declared'
-  },
-  {
-    title: 'My Hero Academia Season 2: Hero Notebook',
-    jname: 'Boku no Hero Academia 2nd Season: Hero Note',
-    image: 'https://img.zorores.com/_r/300x400/100/b1/77/b177b43918f62c28b19514538bd7b4d6/b177b43918f62c28b19514538bd7b4d6.jpg',
-    url: 'https://sanji.to/my-hero-academia-season-2-hero-notebook-2208',
-    age: 'All',
-    sub: '1',
-    dub: '1',
-    totalepisodes: 'Not declared'
-  },
-  {
-    title: 'Ghost in the Shell: Stand Alone Complex 2nd GIG - Individual Eleven',
-    jname: 'Koukaku Kidoutai: Stand Alone Complex 2nd GIG - Individual Eleven',
-    image: 'https://img.zorores.com/_r/300x400/100/e4/b6/e4b6651c5acc4188dbd03f6a9911ce15/e4b6651c5acc4188dbd03f6a9911ce15.jpg',
-    url: 'https://sanji.to/ghost-in-the-shell-stand-alone-complex-2nd-gig-individual-eleven-488',
-    age: '18+',
-    sub: '1',
-    dub: '1',
-    totalepisodes: 'Not declared'
-  },
-  {
-    title: 'Ghost in the Shell: Stand Alone Complex - The Laughing Man',
-    jname: 'Koukaku Kidoutai: Stand Alone Complex - The Laughing Man',
-    image: 'https://img.zorores.com/_r/300x400/100/4b/e6/4be62fe2ed33ae4bc36368621599aee8/4be62fe2ed33ae4bc36368621599aee8.jpg',
-    url: 'https://sanji.to/ghost-in-the-shell-stand-alone-complex-the-laughing-man-415',
-    age: '18+',
-    sub: '1',
-    dub: '1',
-    totalepisodes: 'Not declared'
-  },
-  {
-    title: 'Koukaku Kidoutai Arise: Another Mission',
-    jname: 'Koukaku Kidoutai Arise: Another Mission',
-    image: 'https://img.zorores.com/_r/300x400/100/c4/76/c4764820d3010197c80bd2cd96bec96b/c4764820d3010197c80bd2cd96bec96b.jpg',
-    url: 'https://sanji.to/koukaku-kidoutai-arise-another-mission-5576',
-    age: 'All',
-    sub: '1',
-    dub: 'No dubbing yet',
-    totalepisodes: 'Not declared'
-  },
-  {
-    title: 'Mob Psycho 100: Dai Ikkai Rei toka Soudansho Ian Ryokou - Kokoro Mitasu Iyashi no Tabi',
-    jname: 'Mob Psycho 100: Dai Ikkai Rei toka Soudansho Ian Ryokou - Kokoro Mitasu Iyashi no Tabi',
-    image: 'https://img.zorores.com/_r/300x400/100/40/89/4089566d77bb4aace16b33b3eae4b0b7/4089566d77bb4aace16b33b3eae4b0b7.jpg',
-    url: 'https://sanji.to/mob-psycho-100-dai-ikkai-rei-toka-soudansho-ian-ryokou-kokoro-mitasu-iyashi-no-tabi-1227',
-    age: 'All',
-    sub: '1',
-    dub: 'No dubbing yet',
-    totalepisodes: 'Not declared'
-  },
-  {
-    title: 'Mob Psycho 100: Reigen - Shirarezaru Kiseki no Reinouryokusha',
-    jname: 'Mob Psycho 100: Reigen - Shirarezaru Kiseki no Reinouryokusha',
-    image: 'https://img.zorores.com/_r/300x400/100/76/6a/766a68b4445551c59593f6a9deab987a/766a68b4445551c59593f6a9deab987a.jpg',
-    url: 'https://sanji.to/mob-psycho-100-reigen-shirarezaru-kiseki-no-reinouryokusha-2427',
-    age: 'All',
-    sub: '1',
-    dub: 'No dubbing yet',
-    totalepisodes: 'Not declared'
-  },
-  {
-    title: 'High School DxD BorN: Yomigaeranai Fushichou',
-    jname: 'High School DxD BorN: Yomigaeranai Fushichou',
-    image: 'https://img.zorores.com/_r/300x400/100/04/aa/04aa1cc88ed580094fc6c6789a6305af/04aa1cc88ed580094fc6c6789a6305af.jpg',
-    url: 'https://sanji.to/high-school-dxd-born-yomigaeranai-fushichou-1698',
-    age: '18+',
-    sub: '1',
-    dub: 'No dubbing yet',
-    totalepisodes: 'Not declared'
-  },
-  {
-    title: 'High School DxD Hero: Taiikukan-ura no Holy',
-    jname: 'High School DxD Hero: Taiikukan-ura no Holy',
-    image: 'https://img.zorores.com/_r/300x400/100/38/84/3884a14103d45af9e5bef94a3f2da5e2/3884a14103d45af9e5bef94a3f2da5e2.jpg',
-    url: 'https://sanji.to/high-school-dxd-hero-taiikukan-ura-no-holy-4071',
-    age: '18+',
-    sub: '1',
-    dub: '1',
-    totalepisodes: 'Not declared'
-  },
-  {
-    title: 'Full Metal Panic! Invisible Victory Intermission',
-    jname: 'Full Metal Panic! Invisible Victory Intermission',
-    image: 'https://img.zorores.com/_r/300x400/100/8d/28/8d28817550e28cabeeecd9c19a34b1a0/8d28817550e28cabeeecd9c19a34b1a0.jpg',
-    url: 'https://sanji.to/full-metal-panic-invisible-victory-intermission-7324',
-    age: '18+',
-    sub: '2',
-    dub: '2',
-    totalepisodes: '2'
-  },
-  {
-    title: 'Gundam Build Divers Prologue',
-    jname: 'Gundam Build Divers Prologue',
-    image: 'https://img.zorores.com/_r/300x400/100/43/97/4397b7d435f0eab40c193b2abe59a46b/4397b7d435f0eab40c193b2abe59a46b.jpg',
-    url: 'https://sanji.to/gundam-build-divers-prologue-5687',
-    age: 'All',
-    sub: '1',
-    dub: '1',
-    totalepisodes: 'Not declared'
-  },
-  {
-    title: 'Kyousou Giga',
-    jname: 'Kyousou Giga',
-    image: 'https://img.zorores.com/_r/300x400/100/de/38/de383ae8f6f95b8e4e4f7ca1d0b5311a/de383ae8f6f95b8e4e4f7ca1d0b5311a.jpg',
-    url: 'https://sanji.to/kyousou-giga-3831',
-    age: 'All',
-    sub: '1',
-    dub: 'No dubbing yet',
-    totalepisodes: 'Not declared'
-  },
-  {
-    title: 'Nanbaka: Idiots with Student Numbers!',
-    jname: 'Nanbaka: Shusseki Bangou no Tsuita Baka-tachi!',
-    image: 'https://img.zorores.com/_r/300x400/100/10/02/1002f16b939daf0d333a9a3fc111d1c6/1002f16b939daf0d333a9a3fc111d1c6.jpg',
-    url: 'https://sanji.to/nanbaka-idiots-with-student-numbers-4135',
-    age: 'All',
-    sub: '1',
-    dub: 'No dubbing yet',
-    totalepisodes: 'Not declared'
-  },
-  {
-    title: 'Mirai Nikki OVA',
-    jname: 'Mirai Nikki',
-    image: 'https://img.zorores.com/_r/300x400/100/da/31/da31f4ebbd3f1ad4254441fc0f04d5e8/da31f4ebbd3f1ad4254441fc0f04d5e8.jpg',
-    url: 'https://sanji.to/mirai-nikki-ova-2396',
-    age: '18+',
-    sub: '1',
-    dub: 'No dubbing yet',
-    totalepisodes: 'Not declared'
-  },
-  {
-    title: 'The Future Diary: Redial',
-    jname: 'Mirai Nikki: Redial',
-    image: 'https://img.zorores.com/_r/300x400/100/8b/3f/8b3f4685ebb80490cd66c985bbcf289f/8b3f4685ebb80490cd66c985bbcf289f.jpg',
-    url: 'https://sanji.to/the-future-diary-redial-1820',
-    age: '18+',
-    sub: '1',
-    dub: 'No dubbing yet',
-    totalepisodes: 'Not declared'
-  },
-  {
-    title: 'Fate/Grand Order -First Order-',
-    jname: 'Fate/Grand Order: First Order',
-    image: 'https://img.zorores.com/_r/300x400/100/b2/52/b2524ebf8c491cc4521356e50178ab86/b2524ebf8c491cc4521356e50178ab86.jpg',
-    url: 'https://sanji.to/fategrand-order-first-order-4384',
-    age: 'All',
-    sub: '1',
-    dub: 'No dubbing yet',
-    totalepisodes: 'Not declared'
-  },
-  {
-    title: 'Fate/Grand Order: Moonlight/Lostroom',
-    jname: 'Fate/Grand Order: Moonlight/Lostroom',
-    image: 'https://img.zorores.com/_r/300x400/100/4d/b6/4db697946c23bba43913ce58540be0b1/4db697946c23bba43913ce58540be0b1.jpg',
-    url: 'https://sanji.to/fategrand-order-moonlightlostroom-6918',
-    age: 'All',
-    sub: '1',
-    dub: 'No dubbing yet',
-    totalepisodes: 'Not declared'
-  },
-  {
-    title: 'Fist of the North Star: The Legend of Toki',
-    jname: 'Hokuto no Ken: Toki-den',
-    image: 'https://img.zorores.com/_r/300x400/100/90/33/9033faebe68a6353c1f26b499f260279/9033faebe68a6353c1f26b499f260279.jpg',
-    url: 'https://sanji.to/fist-of-the-north-star-the-legend-of-toki-1908',
-    age: '18+',
-    sub: '1',
-    dub: 'No dubbing yet',
-    totalepisodes: 'Not declared'
-  },
-  {
-    title: 'Hokuto no Ken: Yuria-den',
-    jname: 'Hokuto no Ken: Yuria-den',
-    image: 'https://img.zorores.com/_r/300x400/100/6f/b5/6fb592efaecb861b3c6e2ad56e3edbdb/6fb592efaecb861b3c6e2ad56e3edbdb.jpg',
-    url: 'https://sanji.to/hokuto-no-ken-yuria-den-3078',
-    age: '18+',
-    sub: '1',
-    dub: 'No dubbing yet',
-    totalepisodes: 'Not declared'
-  },
-  {
-    title: 'New Fist of the North Star',
-    jname: 'Shin Hokuto no Ken',
-    image: 'https://img.zorores.com/_r/300x400/100/12/04/1204df29e633eefc5ac33b2091a93036/1204df29e633eefc5ac33b2091a93036.jpg',
-    url: 'https://sanji.to/new-fist-of-the-north-star-3692',
-    age: '18+',
-    sub: '3',
-    dub: 'No dubbing yet',
-    totalepisodes: '3'
-  },
-  {
-    title: 'Hokuto no Ken: Raoh Gaiden Gekitou-hen',
-    jname: 'Hokuto no Ken: Raoh Gaiden Gekitou-hen',
-    image: 'https://img.zorores.com/_r/300x400/100/f9/c0/f9c0175f76aec16e973ed86e1f58d835/f9c0175f76aec16e973ed86e1f58d835.jpg',
-    url: 'https://sanji.to/hokuto-no-ken-raoh-gaiden-gekitou-hen-1381',
-    age: '18+',
-    sub: '1',
-    dub: 'No dubbing yet',
-    totalepisodes: 'Not declared'
-  },
-  {
-    title: 'Fist of the North Star: Raoh Side Story Junai Arc',
-    jname: 'Hokuto no Ken: Raoh Gaiden Junai-hen',
-    image: 'https://img.zorores.com/_r/300x400/100/5f/42/5f42293779d5197b997e6a4a56db1b1c/5f42293779d5197b997e6a4a56db1b1c.jpg',
-    url: 'https://sanji.to/fist-of-the-north-star-raoh-side-story-junai-arc-1632',
-    age: '18+',
-    sub: '1',
-    dub: 'No dubbing yet',
-    totalepisodes: 'Not declared'
-  },
-  {
-    title: 'Garo: Crimson Moon - The Butterfly of Time',
-    jname: 'Garo: Guren no Tsuki Special',
-    image: 'https://img.zorores.com/_r/300x400/100/1e/46/1e46c98c4c6ae884bdd151cdee2192aa/1e46c98c4c6ae884bdd151cdee2192aa.jpg',
-    url: 'https://sanji.to/garo-crimson-moon-the-butterfly-of-time-7156',
-    age: 'All',
-    sub: '1',
-    dub: '1',
-    totalepisodes: 'Not declared'
-  },
-  {
-    title: 'Mokei Senshi Gunpla Builders Beginning G',
-    jname: 'Mokei Senshi Gunpla Builders Beginning G',
-    image: 'https://img.zorores.com/_r/300x400/100/59/e8/59e88cc9de02f84b978eec452e01d9dd/59e88cc9de02f84b978eec452e01d9dd.jpg',
-    url: 'https://sanji.to/mokei-senshi-gunpla-builders-beginning-g-5002',
-    age: 'All',
-    sub: '1',
-    dub: 'No dubbing yet',
-    totalepisodes: '3'
-  },
-  {
-    title: 'Mobile Suit Gundam AGE: Memory of Eden',
-    jname: 'Mobile Suit Gundam AGE: Memory of Eden',
-    image: 'https://img.zorores.com/_r/300x400/100/87/26/8726917b5e3074c1d2af0b0321450c49/8726917b5e3074c1d2af0b0321450c49.jpg',
-    url: 'https://sanji.to/mobile-suit-gundam-age-memory-of-eden-5034',
-    age: 'All',
-    sub: '2',
-    dub: 'No dubbing yet',
-    totalepisodes: '2'
-  },
-  {
-    title: 'Mobile Suit Gundam Wing: Operation Meteor',
-    jname: 'Mobile Suit Gundam Wing: Operation Meteor',
-    image: 'https://img.zorores.com/_r/300x400/100/43/57/4357e7db0348e7a510f3376f7df86731/4357e7db0348e7a510f3376f7df86731.jpg',
-    url: 'https://sanji.to/mobile-suit-gundam-wing-operation-meteor-1682',
-    age: 'All',
-    sub: '4',
-    dub: 'No dubbing yet',
-    totalepisodes: '4'
-  },
-  {
-    title: 'Chou Deneiban SD Gundam Sangokuden Brave Battle Warriors',
-    jname: 'Chou Deneiban SD Gundam Sangokuden Brave Battle Warriors',
-    image: 'https://img.zorores.com/_r/300x400/100/a2/ab/a2abeffbddd407e91a533729b15c7ed8/a2abeffbddd407e91a533729b15c7ed8.jpg',
-    url: 'https://sanji.to/chou-deneiban-sd-gundam-sangokuden-brave-battle-warriors-8365',
-    age: 'All',
-    sub: '1',
-    dub: '1',
-    totalepisodes: 'Not declared'
-  },
-  {
-    title: 'Mobile Suit Gundam SEED Special Edition',
-    jname: 'Mobile Suit Gundam SEED Special Edition',
-    image: 'https://img.zorores.com/_r/300x400/100/c5/ac/c5acf54964dc4699ff6d4fe7cc43660b/c5acf54964dc4699ff6d4fe7cc43660b.jpg',
-    url: 'https://sanji.to/mobile-suit-gundam-seed-special-edition-2229',
-    age: '18+',
-    sub: '3',
-    dub: '3',
-    totalepisodes: '3'
-  },
-  {
-    title: 'Mobile Suit Gundam SEED Destiny Special Edition',
-    jname: 'Mobile Suit Gundam SEED Destiny Special Edition',
-    image: 'https://img.zorores.com/_r/300x400/100/08/0c/080cd15a0e52f3e74c2dde359c5c851e/080cd15a0e52f3e74c2dde359c5c851e.jpg',
-    url: 'https://sanji.to/mobile-suit-gundam-seed-destiny-special-edition-2398',
-    age: '18+',
-    sub: '4',
-    dub: '4',
-    totalepisodes: '4'
-  },
-  {
-    title: 'Appleseed',
-    jname: 'Appleseed',
-    image: 'https://img.zorores.com/_r/300x400/100/ec/b2/ecb2fa76829e9b9c644df52eda9ae111/ecb2fa76829e9b9c644df52eda9ae111.jpg',
-    url: 'https://sanji.to/appleseed-5200',
-    age: 'All',
-    sub: '1',
-    dub: '1',
-    totalepisodes: 'Not declared'
-  },
-  {
-    title: 'Izetta: The Last Witch',
-    jname: 'Shuumatsu no Izetta',
-    image: 'https://img.zorores.com/_r/300x400/100/69/49/694906f31958b27adcf10dbac9ef7834/694906f31958b27adcf10dbac9ef7834.jpg',
-    url: 'https://sanji.to/izetta-the-last-witch-4503',
-    age: '18+',
-    sub: '12',
-    dub: '12',
-    totalepisodes: '12'
-  },
-  {
-    title: 'Laughing Under the Clouds',
-    jname: 'Donten ni Warau',
-    image: 'https://img.zorores.com/_r/300x400/100/1e/a4/1ea4809607f1babc8cb514979ce0ce92/1ea4809607f1babc8cb514979ce0ce92.jpg',
-    url: 'https://sanji.to/laughing-under-the-clouds-1454',
-    age: 'All',
-    sub: '12',
-    dub: '12',
-    totalepisodes: '12'
-  },
-  {
-    title: 'Bobobo-bo Bo-bobo Recap',
-    jname: 'Bobobo-bo Bo-bobo Recap',
-    image: 'https://img.zorores.com/_r/300x400/100/68/f9/68f95d31124745491d057fae48ce5b1a/68f95d31124745491d057fae48ce5b1a.jpg',
-    url: 'https://sanji.to/bobobo-bo-bo-bobo-recap-7005',
-    age: 'All',
-    sub: '1',
-    dub: 'No dubbing yet',
-    totalepisodes: 'Not declared'
-  }
-]
   ```
 
   <br />
   
 </details>
+<p align="right">( <a href="#table-of-contents">Go to Table of Contents ⇧</a> )</p>
 
 <br />
 
@@ -1696,6 +1369,7 @@ const anime = require("z-anime");
   <br />
   
 </details>
+<p align="right">( <a href="#table-of-contents">Go to Table of Contents ⇧</a> )</p>
 
 <br />
 
@@ -1771,6 +1445,7 @@ const anime = require("z-anime");
   <br />
   
 </details>
+<p align="right">( <a href="#table-of-contents">Go to Table of Contents ⇧</a> )</p>
 
 <br />
 
@@ -1812,6 +1487,10 @@ const anime = require("z-anime");
 })();
 ```
 
+<br />
+<p align="right">( <a href="#table-of-contents">Go to Table of Contents ⇧</a> )</p>
+<br />
+
 ### Get OVA list:
 
 * Use `ova()` function to get ONA list of page 1 of Zoro.to.
@@ -1830,6 +1509,10 @@ const anime = require("z-anime");
   console.log(data2);
 })();
 ```
+
+<br />
+<p align="right">( <a href="#table-of-contents">Go to Table of Contents ⇧</a> )</p>
+<br />
 
 ### Get TV list:
 
@@ -1850,6 +1533,10 @@ const anime = require("z-anime");
 })()
 ```
 
+<br />
+<p align="right">( <a href="#table-of-contents">Go to Table of Contents ⇧</a> )</p>
+<br />
+
 ### Get Specials list:
 
 * Use `specials()` function to get Specials list of page 1 of Zoro.to.
@@ -1868,6 +1555,10 @@ const anime = require("z-anime");
   console.log(data2);
 })();
 ```
+
+<br />
+<p align="right">( <a href="#table-of-contents">Go to Table of Contents ⇧</a> )</p>
+<br />
 
 ### Get Dubbed Anime list:
 
@@ -1888,6 +1579,10 @@ const anime = require("z-anime");
 })();
 ```
 
+<br />
+<p align="right">( <a href="#table-of-contents">Go to Table of Contents ⇧</a> )</p>
+<br />
+
 ### Get Subbed Anime list:
 
 * Use `subbed()` function to get Dubbed Anime list of page 1 of Zoro.to.
@@ -1906,3 +1601,7 @@ const anime = require("z-anime");
   console.log(data2);
 })();
 ```
+
+<br />
+<p align="right">( <a href="#table-of-contents">Go to Table of Contents ⇧</a> )</p>
+<br />
