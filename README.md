@@ -104,6 +104,8 @@ yarn add z-anime
 
 * Use `trending()` function to get top 10 trending anime list of Zoro.to.
 
+Using Anoymous function
+
 ```JS
 const anime = require("z-anime");
 
@@ -113,6 +115,23 @@ const anime = require("z-anime");
   
   console.log(trending);
 })();
+```
+
+### The Above function is equivalent to below one
+
+Using Named function
+
+```JS
+const anime = require("z-anime");
+
+async function getTrending(){
+  
+  const trending = await anime.trending(); // It will return top 10 trending anime.
+  
+  console.log(trending);
+});
+
+getTrending()
 ```
 
 ### Output:
