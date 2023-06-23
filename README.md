@@ -184,6 +184,7 @@ const anime = require("z-anime");
 <br />
   
 </details>
+<p align="right">(<a href="#table-of-contents">Go to Table of Contents</a>)</p>
 
 <br />
 
