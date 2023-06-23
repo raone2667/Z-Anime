@@ -53,7 +53,7 @@ Sometimes while creating and **anime information** website or **anime news websi
     <li><a href="#get-trending-anime-list">Get Trending Animes List</a></li>
     <li><a href="#get-spotlight-anime-list">Get Spotlight Animes List</a></li>
     <li><a href="#get-recently-updated-anime-list">Get Recently Updated Animes List</a></li>
-    <li><a href="#get-recently-added-animes-list">Get Recently Added Animes List</a></li>
+    <li><a href="#get-recently-added-anime-list">Get Recently Added Animes List</a></li>
     <li><a href="#get-top-airing-anime-list">Get Currently Airing Animes List</a></li>
     <li><a href="#get-most-popular-anime-list">Get Most Popular Animes List</a></li>
     <li><a href="#get-most-favourite-anime-list">Get Most Favourite Animes List</a></li>
