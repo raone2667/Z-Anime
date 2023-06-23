@@ -1637,7 +1637,8 @@ const anime = require("z-anime");
 
 <br />
 
-# Suppoet me
+# Support me
 * Give this project a 🌟 if you like my project.
+* Please follow me on GitHub to get notified about my upcoming projects.
 
 <br />
