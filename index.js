@@ -14,7 +14,7 @@ module.exports = {
   movies: require("./Components/Depth/movies.js"),
   ona: require("./Components/Depth/ona.js"),
   ova: require("./Components/Depth/ova.js"),
-  special: require("./Components/Depth/specials.js"),
+  specials: require("./Components/Depth/specials.js"),
   tv: require("./Components/Depth/tv.js"),
   dubbed: require("./Components/Depth/dubbed.js"),
   subbed: require("./Components/Depth/subbed.js"),

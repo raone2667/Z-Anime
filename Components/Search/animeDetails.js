@@ -96,8 +96,8 @@ async function animeDetails(name) {
     jname: janame,
     url: refererUrl,
     Description: formattedDescription,
-    seasons: seasons.length,
-    seasonslist: seasons,
+    parts: seasons.length,
+    partsList: seasons,
   };
 
   return AllData;

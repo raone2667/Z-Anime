@@ -8,7 +8,7 @@ async function topAiring(page) {
   }
   const refererUrl = "https://sanji.to/top-airing?page=" + page;
   const headers = await stealthHeaderV2(refererUrl);
-  const data = await axios.get(headers, {
+  const data = await axios.get(refererUrl, {
     headers: headers,
   });
   const $ = cheerio.load(data.data);
@@ -48,6 +48,7 @@ async function topAiring(page) {
       totalepisodes: data7,
     });
   });
+
   return list;
 }
 
