@@ -35,7 +35,7 @@ Sometimes while creating and **anime information** website or **anime news websi
 
 **Limitations:**
 - [ ] No anime video **play/download** feature to avoid IP ban.
-- [ ] Can take upto **1.25s** in certain functions to preform some heavy scraping ( Ex: Anime details functionality is heavy ).
+- [ ] Can take upto **1.25s** in certain functions to preform some heavy scraping ( Ex: Anime details ).
 - [x] Let me know if you found anything else.
 
 
