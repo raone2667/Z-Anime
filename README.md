@@ -6,18 +6,22 @@
   <h1 align="center">Z-Anime</h1>
 
   <p align="center">
-    <h3>An unoffitial <a href="sanji.to">zoro.to </a>fetcher NPM package </h3>
-    <br />
-    <a href="#table-of-contents"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
+    <h3>An unoffitial <a href="sanji.to">Zoro.to </a>scraper NPM package </h3>
     <a href="#get-trending-anime-list">View Code Example</a>
     ·
     <a href="https://github.com/FantoX001/Z-Anime/issues">Report a Bug</a>
     ·
     <a href="https://github.com/FantoX001/Z-Anime/issues">Request a Feature</a>
+    <p align="center">
+      <br /> 
+      <br />
+    <a href="https://www.buymeacoffee.com/fantox001"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=fantox001&button_colour=ff0059&font_colour=FFFFFF&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a>
+
+
   </p>
 </div>
+
+
 
 ## About Z-Anime
 
@@ -1630,5 +1634,10 @@ const anime = require("z-anime");
 # Contributions
 * Made by [FantoX](https://github.com/FantoX001)
 * I don't have any other contributors in this project yet. Feel free to contribute.
+
+<br />
+
+# Suppoet me
+* Give this project a 🌟 if you like my project.
 
 <br />
