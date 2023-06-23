@@ -69,8 +69,8 @@ Sometimes while creating and **anime information** website or **anime news websi
     <li><a href="#get-dubbed-animes-list">Get Dubbed Animes List</a></li>
     <li><a href="#get-subbed-animes-list">Get Subbed Animes List</a></li> <br />
 </ul>
-  <li><a href="#making-of-z-anime)">Making of Z-Anime</a></li> <br />
-  <li><a href="#contributions)">Contributions</a></li> <br />
+  <li><a href="#making-of-z-anime">Making of Z-Anime</a></li> <br />
+  <li><a href="#contributions">Contributions</a></li> <br />
 </ol>
 
 
