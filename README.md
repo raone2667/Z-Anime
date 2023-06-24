@@ -15,6 +15,7 @@
     <p align="center">
       <br /> 
       <br />
+      <a  href="https://www.codefactor.io/repository/github/fantox001/z-anime"><img width="130px" src="https://www.codefactor.io/repository/github/fantox001/z-anime/badge" alt="CodeFactor" /></a> <br /> <br />
     <a href="https://www.buymeacoffee.com/fantox001"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=fantox001&button_colour=ff0059&font_colour=FFFFFF&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a>
 
 
