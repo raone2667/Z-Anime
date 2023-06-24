@@ -6,7 +6,7 @@
   <h1 align="center">Z-Anime</h1>
 
   <p align="center">
-    <h3>An unoffitial <a href="sanji.to">Zoro.to </a>scraper NPM package </h3>
+    <h3>An unoffitial <a href="https://sanji.to">Zoro.to </a>scraper NPM package </h3>
     <a href="#get-trending-anime-list">View Code Example</a>
     ·
     <a href="https://github.com/FantoX001/Z-Anime/issues">Report a Bug</a>
@@ -35,7 +35,7 @@ Sometimes while creating and **anime information** website or **anime news websi
 **Advantages:**
 - [x] Saves your time and money of creating a whole anime database yourself.
 - [x] Requirs no additional configuration from user's end.
-- [x] Contains all featues of <a href="sanji.to">zoro.to </a> website.
+- [x] Contains all featues of <a href="https://sanji.to">zoro.to </a> website.
 
 **Limitations:**
 - [ ] No anime video **play/download** feature to avoid IP ban.
