@@ -22,7 +22,6 @@
 </div>
 
 
-
 # About Z-Anime
 
 Sometimes while creating and **anime information** website or **anime news website**, we require some data so this NPM pacakge will help you fetch data from <a href="sanji.to">zoro.to </a> and return as a **JSON** with the power of web scraping.
