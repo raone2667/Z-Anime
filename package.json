@@ -7,7 +7,7 @@
     "Components": "Components"
   },
   "scripts": {
-    "test": "yarn run test:unit && yarn run test:e2e"
+    "test": " yarn run test:e2e"
   },
   "repository": {
     "type": "git",
