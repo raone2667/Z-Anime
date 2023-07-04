@@ -3,7 +3,7 @@ const cheerio = require("cheerio");
 const stealthHeader = require("../Core/index.js");
 
 async function getTrending() {
-  const data = await axios.get("https://sanji.to/home", {
+  const data = await axios.get("https://aniwatch.to/home", {
     headers: stealthHeader,
     timeout: 100000,
   });
@@ -24,7 +24,7 @@ async function getTrending() {
       index: data2,
       title: data1,
       image: data3,
-      url: "https://sanji.to" + data4,
+      url: "https://aniwatch.to" + data4,
     };
     trendingarr.push(arrData);
   });

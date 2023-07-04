@@ -2,7 +2,7 @@ const stealthHeader = {
   Accept: "*/*",
   "Accept-Encoding": "gzip, deflate, br",
   "Accept-Language": "en-US,en;q=0.8",
-  Referer: "https://sanji.to/home",
+  Referer: "https://aniwatch.to/home",
   "Sec-Ch-Ua": '"Not.A/Brand";v="8", "Chromium";v="114", "Brave";v="114"',
   "Sec-Ch-Ua-Mobile": "?1",
   "Sec-Ch-Ua-Platform": '"Android"',

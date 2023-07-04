@@ -6,7 +6,7 @@ async function getDubbed(page) {
   if (!page || page == "") {
     page = 1;
   }
-  const refererUrl = "https://sanji.to/dubbed-anime?page=" + page;
+  const refererUrl = "https://aniwatch.to/dubbed-anime?page=" + page;
   const headers = await stealthHeaderV2(refererUrl);
   const data = await axios.get(refererUrl, {
     headers: headers,
@@ -41,7 +41,7 @@ async function getDubbed(page) {
       title: data1,
       jname: data8,
       image: data2,
-      url: "https://sanji.to" + data3,
+      url: "https://aniwatch.to" + data3,
       age: data4,
       sub: data5,
       dub: data6,
