@@ -3,7 +3,7 @@ const cheerio = require("cheerio");
 const stealthHeader = require("../Core/index.js");
 
 async function getSpotlight() {
-  const data = await axios.get("https://aniwatch.to/home", {
+  const data = await axios.get("https://hianime.to/home", {
     headers: stealthHeader,
     timeout: 100000,
   });
@@ -59,7 +59,7 @@ async function getSpotlight() {
       cc: data7,
       episodes: data8,
       description: dex,
-      url: "https://aniwatch.to" + data10,
+      url: "https://hianime.to" + data10,
     });
   });
 

@@ -7,7 +7,7 @@ async function mostFavourite(page) {
     page = 1;
   }
 
-  const refererUrl = "https://aniwatch.to/most-favorite?page=" + page;
+  const refererUrl = "https://hianime.to/most-favorite?page=" + page;
   const headers = await stealthHeaderV2(refererUrl);
   const data = await axios.get(refererUrl, {
     headers: headers,
@@ -42,7 +42,7 @@ async function mostFavourite(page) {
       title: data1,
       jname: data8,
       image: data2,
-      url: "https://aniwatch.to" + data3,
+      url: "https://hianime.to" + data3,
       age: data4,
       sub: data5,
       dub: data6,

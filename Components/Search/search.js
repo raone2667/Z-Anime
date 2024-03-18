@@ -8,7 +8,7 @@ async function search(name) {
       "Please enter an anime name to search ! Ex: search('naruto')\n"
     );
   }
-  const refererUrl = "https://aniwatch.to/search?keyword=" + name; 
+  const refererUrl = "https://hianime.to/search?keyword=" + name; 
   const headers = await stealthHeaderV2(refererUrl);
   const data = await axios.get(refererUrl, {
     headers: headers,
@@ -43,7 +43,7 @@ async function search(name) {
       title: data1,
       jname: data8,
       image: data2,
-      url: "https://aniwatch.to" + data3,
+      url: "https://hianime.to" + data3,
       age: data4,
       sub: data5,
       dub: data6,

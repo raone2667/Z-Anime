@@ -9,16 +9,16 @@ async function animeDetails(name) {
     );
   }
   const headers1 = await stealthHeaderV2(
-    "https://aniwatch.to/search?keyword=" + name
+    "https://hianime.to/search?keyword=" + name
   );
 
-  const data = await axios.get("https://aniwatch.to/search?keyword=" + name, {
+  const data = await axios.get("https://hianime.to/search?keyword=" + name, {
     headers: headers1,
   });
   let $ = cheerio.load(data.data);
   const ddr = $(".flw-item");
   const firstUrl = ddr.find("a").attr("href");
-  const refererUrl = "https://aniwatch.to" + firstUrl;
+  const refererUrl = "https://hianime.to" + firstUrl;
   const headers2 = await stealthHeaderV2(refererUrl);
 
   const req2 = await axios.get(refererUrl, {
@@ -42,7 +42,7 @@ async function animeDetails(name) {
       .attr("style")
       .replace("background-image: url(", "")
       .replace(");", "");
-    const url = "https://aniwatch.to" + $(el).attr("href");
+    const url = "https://hianime.to" + $(el).attr("href");
 
     seasons.push({ name, image, url });
   });
